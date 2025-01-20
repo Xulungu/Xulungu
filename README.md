@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi there! I'm Evan Arranga 
+🎓 A computer science student based in Limoges, France.
 
-<!--
-**Xulungu/Xulungu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me:
 
-Here are some ideas to get you started:
+Passionate about technology, coding and video games. Avid gamer with a love for indie games, including Touhou, Undertale, Hollow Knight, and Doki Doki Literature Club. Interested in combining my passion for gaming with programming to create engaging, interactive experiences. 💻 Skills & Interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming languages: Python Game Development: Exploring game engines like Godot and pycharm. Interests: Game design, artificial intelligence, and creative coding.
+
+🎮 Gaming-Inspired Goals: Build indie-style projects.
+
+📫 Reach Me:
+
+Email: evanarranga905@gmail.com evan.arranga@etu.unilim.fr
+
+J̷̾͊U̴̅͠S̷̒͒T̵̏̃ ̸́̂M̷͖̏O̴̓NIKA
