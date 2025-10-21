@@ -12,5 +12,6 @@ Programming languages: Python Game Development: Exploring game engines like Godo
 📫 Reach Me:
 
 Email: evanarranga905@gmail.com evan.arranga@etu.unilim.fr
+Linkedin: https://www.linkedin.com/in/evan-arranga-188a7b384
 
 J̷̾͊U̴̅͠S̷̒͒T̵̏̃ ̸́̂M̷͖̏O̴̓NIKA
